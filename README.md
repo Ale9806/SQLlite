@@ -1,7 +1,4 @@
-# SQLlite
-SQLlite Tutorail
-
-## SQL TUTORIAL 
+# SQLlite TUTORIAL
 
 #### Create A New Table
 ```sql
